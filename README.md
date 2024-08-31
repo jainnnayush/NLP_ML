@@ -1,4 +1,7 @@
 # Analyze your favourite Series with NLP
+
+Authors: Ayush Jain (ayush.cl21@iitg.ac.in), Bhadra Tendulkar (t.bhadra@iitg.ac.in), Abhijit Pandey (p.abhijit@iitg.ac.in)
+
 In this project we are going to analyze a series with NLP and LLMs. We are going to scrape our own dataset, use zero shot classifiers, build our own LLM text classifier, use NER to build a character network and build a charatecter chatbot to chat with your favorite characters. And in the end we are going to put all that in web GUI with Gradio.
 
 ## Overview
@@ -15,7 +18,7 @@ In this project, we have created 5 models, each containing the code for a differ
 **charater_chat_bot**: This folder contains the code for building a charatcer chatbot with LLMs to chat with your favorite charaters from the series. 
 
 
-## Requirements
-Before running the code in this project, make sure you have installed all packages in the requirements.txt by running
+## Requirements: 
+Before running the code, please ensure that you install the neccessary requirements using pip. 
 
 ```pip install -r requirements.txt```
